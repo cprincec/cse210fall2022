@@ -1,0 +1,5 @@
+ENHANCEMENTS I MADE TO THE GAME:
+- Improved user directions and message
+- User input validation
+- Improved user experience (with features such as time delay to bring reality. ETC)
+- Included couter feature that tell user how many dice-rolls made at the end of the game.

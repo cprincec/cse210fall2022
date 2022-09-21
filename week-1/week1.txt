@@ -1,0 +1,8 @@
+What is a version control system and why is it important.?
+
+A version control system keeps track of changes made to a a directory or folder including changes made to files within the directory. 
+This enables a programmer have access to versions of his code as it looked at different points when writing the code.
+Version control system allows a programmer to easily revert to an earlier version of his code. 
+This makes it easy to undo certain steps when stuck in a program or when there have been messed up code added to an earlier version
+of your program.
+
